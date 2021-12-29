@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"EditorConfig",
-		"Package Control"
-	]
+		"Package Control",
+		"TOML",
+	],
 }
