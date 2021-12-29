@@ -1,0 +1,9 @@
+{
+	"brace_newline": false,
+	"bracket_newline": false,
+	"indent": "\t",
+	"keep_arrays_single_line": true,
+	"max_arrays_line_length": 80,
+	"pretty_on_save": true,
+	"sort_keys": true
+}
