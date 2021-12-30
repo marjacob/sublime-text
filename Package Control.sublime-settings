@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"EditorConfig",
+		"LSP",
 		"Package Control",
 		"Pretty JSON",
 		"TOML",
