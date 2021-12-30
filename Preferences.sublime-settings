@@ -8,7 +8,9 @@
 	"hardware_acceleration": "opengl",
 	"hide_pointer_while_typing": false,
 	"highlight_modified_tabs": true,
-	"ignored_packages": [],
+	"ignored_packages": [
+		"Markdown",
+	],
 	"inactive_sheet_dimming": false,
 	"rulers": [80],
 	"trim_trailing_white_space_on_save": "all",

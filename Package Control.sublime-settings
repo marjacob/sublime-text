@@ -7,6 +7,7 @@
 	[
 		"EditorConfig",
 		"LSP",
+		"MarkdownEditing",
 		"Package Control",
 		"Pretty JSON",
 		"TOML",
