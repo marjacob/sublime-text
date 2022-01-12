@@ -1,5 +1,77 @@
 [
 	{
+		"keys": [",", "E"],
+		"command": "insert",
+		"args": {"characters": "É"},
+		"context": [
+			{"key": "setting.command_mode", "operand": false },
+			{"key": "setting.is_widget", "operand": false }
+		]
+	},
+	{
+		"keys": [",", "e"],
+		"command": "insert",
+		"args": {"characters": "é"},
+		"context": [
+			{"key": "setting.command_mode", "operand": false },
+			{"key": "setting.is_widget", "operand": false }
+		]
+	},
+	{
+		"keys": [",", "\""],
+		"command": "insert",
+		"args": {"characters": "Æ"},
+		"context": [
+			{"key": "setting.command_mode", "operand": false },
+			{"key": "setting.is_widget", "operand": false }
+		]
+	},
+	{
+		"keys": [",", "'"],
+		"command": "insert",
+		"args": {"characters": "æ"},
+		"context": [
+			{"key": "setting.command_mode", "operand": false },
+			{"key": "setting.is_widget", "operand": false }
+		]
+	},
+	{
+		"keys": [",", ":"],
+		"command": "insert",
+		"args": {"characters": "Ø"},
+		"context": [
+			{"key": "setting.command_mode", "operand": false },
+			{"key": "setting.is_widget", "operand": false }
+		]
+	},
+	{
+		"keys": [",", ";"],
+		"command": "insert",
+		"args": {"characters": "ø"},
+		"context": [
+			{"key": "setting.command_mode", "operand": false },
+			{"key": "setting.is_widget", "operand": false }
+		]
+	},
+	{
+		"keys": [",", "{"],
+		"command": "insert",
+		"args": {"characters": "Å"},
+		"context": [
+			{"key": "setting.command_mode", "operand": false },
+			{"key": "setting.is_widget", "operand": false }
+		]
+	},
+	{
+		"keys": [",", "["],
+		"command": "insert",
+		"args": {"characters": "å"},
+		"context": [
+			{"key": "setting.command_mode", "operand": false },
+			{"key": "setting.is_widget", "operand": false }
+		]
+	},
+	{
 		"keys": ["j", "k"],
 		"command": "exit_insert_mode",
 		"context": [
