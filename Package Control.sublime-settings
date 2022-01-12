@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"EditorConfig",
+		"GenerateUUID",
 		"LSP",
 		"MarkdownEditing",
 		"Package Control",

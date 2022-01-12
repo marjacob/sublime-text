@@ -19,6 +19,7 @@
 	"tab_size": 8,
 	"theme": "Adaptive.sublime-theme",
 	"trim_trailing_white_space_on_save": "all",
+	"uuid_uppercase": true,
 	"vintage_ctrl_keys": true,
 	"vintage_start_in_command_mode": true,
 	"vintage_use_clipboard": true,
