@@ -1,5 +1,9 @@
 [
 	{
+		"keys": ["f8"],
+		"command": "prompt_select_workspace"
+	},
+	{
 		"keys": [",", "E"],
 		"command": "insert",
 		"args": {"characters": "É"},
