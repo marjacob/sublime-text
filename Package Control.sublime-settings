@@ -10,6 +10,7 @@
 		"LSP",
 		"MarkdownEditing",
 		"Package Control",
+		"PackageDev",
 		"Pretty JSON",
 		"TOML",
 	],
