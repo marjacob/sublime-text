@@ -10,6 +10,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages": ["Markdown"],
 	"inactive_sheet_dimming": false,
+	"overlay_scroll_bars": "enabled",
 	"rulers": [80],
 	"scroll_context_lines": 3,
 	"select_across_groups": true,
