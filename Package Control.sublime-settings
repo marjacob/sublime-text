@@ -8,6 +8,7 @@
 		"EditorConfig",
 		"GenerateUUID",
 		"LSP",
+		"LSP-pylsp",
 		"MarkdownEditing",
 		"Package Control",
 		"PackageDev",
