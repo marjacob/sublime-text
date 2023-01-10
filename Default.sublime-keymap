@@ -1,78 +1,78 @@
 [
 	{
-		"keys": ["f8"],
+		"keys": [ "f8" ],
 		"command": "prompt_select_workspace"
 	},
-	{
-		"keys": [",", "E"],
+        {
+		"keys": [ ",", "E" ],
 		"command": "insert",
-		"args": {"characters": "É"},
+		"args": { "characters": "É" },
 		"context": [
-			{"key": "setting.command_mode", "operand": false },
-			{"key": "setting.is_widget", "operand": false }
+			{ "key": "setting.command_mode", "operand": false },
+			{ "key": "setting.is_widget", "operand": false }
 		]
 	},
 	{
-		"keys": [",", "e"],
+		"keys": [ ",", "e" ],
 		"command": "insert",
-		"args": {"characters": "é"},
+		"args": { "characters": "é" },
 		"context": [
-			{"key": "setting.command_mode", "operand": false },
-			{"key": "setting.is_widget", "operand": false }
+			{ "key": "setting.command_mode", "operand": false },
+			{ "key": "setting.is_widget", "operand": false }
 		]
 	},
 	{
-		"keys": [",", "\""],
+		"keys": [ ",", "\"" ],
 		"command": "insert",
-		"args": {"characters": "Æ"},
+		"args": { "characters": "Æ" },
 		"context": [
-			{"key": "setting.command_mode", "operand": false },
-			{"key": "setting.is_widget", "operand": false }
+			{ "key": "setting.command_mode", "operand": false },
+			{ "key": "setting.is_widget", "operand": false }
 		]
 	},
 	{
-		"keys": [",", "'"],
+		"keys": [ ",", "'" ],
 		"command": "insert",
-		"args": {"characters": "æ"},
+		"args": { "characters": "æ" },
 		"context": [
-			{"key": "setting.command_mode", "operand": false },
-			{"key": "setting.is_widget", "operand": false }
+			{ "key": "setting.command_mode", "operand": false },
+			{ "key": "setting.is_widget", "operand": false }
 		]
 	},
 	{
-		"keys": [",", ":"],
+		"keys": [ ",", ":" ],
 		"command": "insert",
-		"args": {"characters": "Ø"},
+		"args": { "characters": "Ø" },
 		"context": [
-			{"key": "setting.command_mode", "operand": false },
-			{"key": "setting.is_widget", "operand": false }
+			{ "key": "setting.command_mode", "operand": false },
+			{ "key": "setting.is_widget", "operand": false }
 		]
 	},
 	{
-		"keys": [",", ";"],
+		"keys": [ ",", ";" ],
 		"command": "insert",
-		"args": {"characters": "ø"},
+		"args": { "characters": "ø" },
 		"context": [
-			{"key": "setting.command_mode", "operand": false },
-			{"key": "setting.is_widget", "operand": false }
+			{ "key": "setting.command_mode", "operand": false },
+			{ "key": "setting.is_widget", "operand": false }
 		]
 	},
 	{
-		"keys": [",", "{"],
+		"keys": [ ",", "{" ],
 		"command": "insert",
-		"args": {"characters": "Å"},
+		"args": { "characters": "Å" },
 		"context": [
-			{"key": "setting.command_mode", "operand": false },
-			{"key": "setting.is_widget", "operand": false }
+			{ "key": "setting.command_mode", "operand": false },
+			{ "key": "setting.is_widget", "operand": false }
 		]
 	},
 	{
-		"keys": [",", "["],
+		"keys": [ ",", "[" ],
 		"command": "insert",
-		"args": {"characters": "å"},
+		"args": { "characters": "å" },
 		"context": [
-			{"key": "setting.command_mode", "operand": false },
-			{"key": "setting.is_widget", "operand": false }
+			{ "key": "setting.command_mode", "operand": false },
+			{ "key": "setting.is_widget", "operand": false }
 		]
 	}
 ]
