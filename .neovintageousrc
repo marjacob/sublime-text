@@ -1,0 +1,4 @@
+let mapleader=,
+
+nnoremap <leader>d  :Neovintageous action=toggle_side_bar<CR>
+nnoremap <leader>ev :Neovintageous action=open_rc_file<CR>

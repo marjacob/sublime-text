@@ -3,7 +3,15 @@
 		"keys": [ "f8" ],
 		"command": "prompt_select_workspace"
 	},
-        {
+	{
+		"keys": [ ",", "d" ],
+		"command": "neovintageous",
+		"args": { "action": "toggle_side_bar" },
+		"context": [
+			{ "key": "control", "operand": "sidebar_tree"}
+		]
+	},
+	{
 		"keys": [ ",", "E" ],
 		"command": "insert",
 		"args": { "characters": "É" },
